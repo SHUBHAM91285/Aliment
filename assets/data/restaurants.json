@@ -1,0 +1,209 @@
+[{
+  "id": "1",
+  "name": "Shankar Dhaba",
+  "MonthlyFee": "3000/month",
+  "minDeliveryTime": 25,
+  "maxDeliveryTime": 35,
+  "rating": 4.0,
+  "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+  "dishes": [
+    {
+      "price":3000,
+      "day":"Monday",
+      "name": "Veg Food",
+      "description": "Roti, Chawal , Daal ,Mixed Veg"
+    },
+    {
+      "price":3000,
+      "day":"Tuesday",
+      "name": "Veg Food",
+      "description": "Cadhi Chawal,Roti,Raita"
+    },
+    {
+      "price":3000,
+      "day":"Wednesday",
+      "name": "Veg Food",
+      "description": "Manchurian,Chawal,Roti,Raita"
+    },
+    {
+      "price":3000,
+      "day":"Thursday",
+      "name": "Veg Food",
+      "description": "Soya Chap,Chawal,Roti,Raita"
+    },
+    {
+      "price":3000,
+      "day":"Friday",
+      "name": "Non-Veg Food",
+      "description": "Chicken Cury,Chawal,Roti"
+    },
+    {
+      "price":3000,
+      "day":"Saturday",
+      "name": "Non-Veg Food",
+      "description": "Egg Cury,Roti,Chawal"
+    },
+    {
+      "price":3000,
+      "day":"Sunday",
+      "name": "Non-Veg Food",
+      "description": "Chicken biryani"
+    }
+  ]
+}, {
+  "id": "2",
+  "name": "Darshan Dhaba",
+  "MonthlyFee": "5000/month",
+  "minDeliveryTime": 25,
+  "maxDeliveryTime": 35,
+  "rating": 4.7,
+  "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
+  "dishes": [
+    {
+      "price":5000,
+      "day":"Monday",
+      "name": "Veg Food",
+      "description": "Roti, Chawal , Daal ,Mixed Veg"
+    },
+    {
+      "price":5000,
+      "day":"Tuesday",
+      "name": "Veg Food",
+      "description": "Cadhi Chawal,Roti,Raita"
+    },
+    {
+      "price":5000,
+      "day":"Wednesday",
+      "name": "Veg Food",
+      "description": "Manchurian,Chawal,Roti,Raita"
+    },
+    {
+      "price":5000,
+      "day":"Thursday",
+      "name": "Veg Food",
+      "description": "Soya Chap,Chawal,Roti,Raita"
+    },
+    {
+      "price":5000,
+      "day":"Friday",
+      "name": "Non-Veg Food",
+      "description": "Chicken Cury,Chawal,Roti"
+    },
+    {
+      "price":5000,
+      "day":"Saturday",
+      "name": "Non-Veg Food",
+      "description": "Egg Cury,Roti,Chawal"
+    },
+    {
+      "price":5000,
+      "day":"Sunday",
+      "name": "Non-Veg Food",
+      "description": "Chicken biryani"
+    }
+  ]
+}, {
+  "id": "3",
+  "name": "Brothers Barbecue",
+  "MonthlyFee": "4000/month",
+  "minDeliveryTime": 20,
+  "maxDeliveryTime": 30,
+  "rating": 4.3,
+  "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg",
+  "dishes": [
+    {
+      "price":4000,
+      "day":"Monday",
+      "name": "Veg Food",
+      "description": "Roti, Chawal , Daal ,Mixed Veg"
+    },
+    {
+      "price":4000,
+      "day":"Tuesday",
+      "name": "Veg Food",
+      "description": "Cadhi Chawal,Roti,Raita"
+    },
+    {
+      "price":4000,
+      "day":"Wednesday",
+      "name": "Veg Food",
+      "description": "Manchurian,Chawal,Roti,Raita"
+    },
+    {
+      "price":4000,
+      "day":"Thursday",
+      "name": "Veg Food",
+      "description": "Soya Chap,Chawal,Roti,Raita"
+    },
+    {
+      "price":4000,
+      "day":"Friday",
+      "name": "Non-Veg Food",
+      "description": "Chicken Cury,Chawal,Roti"
+    },
+    {
+      "price":4000,
+      "day":"Saturday",
+      "name": "Non-Veg Food",
+      "description": "Egg Cury,Roti,Chawal"
+    },
+    {
+      "price":4000,
+      "day":"Sunday",
+      "name": "Non-Veg Food",
+      "description": "Chicken biryani"
+    }
+  ]
+}, {
+  "id": "4",
+  "name": "Hamburguesa Nostra La Salle",
+  "MonthlyFee": "3500/month",
+  "minDeliveryTime": 30,
+  "maxDeliveryTime": 40,
+  "rating": 4.5,
+  "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant4.jpeg",
+  "dishes": [
+    {
+      "price":3500,
+      "day":"Monday",
+      "name": "Veg Food",
+      "description": "Roti, Chawal , Daal ,Mixed Veg"
+    },
+    {
+      "price":3500,
+      "day":"Tuesday",
+      "name": "Veg Food",
+      "description": "Cadhi Chawal,Roti,Raita"
+    },
+    {
+      "price":3500,
+      "day":"Wednesday",
+      "name": "Veg Food",
+      "description": "Manchurian,Chawal,Roti,Raita"
+    },
+    {
+      "price":3500,
+      "day":"Thursday",
+      "name": "Veg Food",
+      "description": "Soya Chap,Chawal,Roti,Raita"
+    },
+    {
+      "price":3500,
+      "day":"Friday",
+      "name": "Non-Veg Food",
+      "description": "Chicken Cury,Chawal,Roti"
+    },
+    {
+      "price":3500,
+      "day":"Saturday",
+      "name": "Non-Veg Food",
+      "description": "Egg Cury,Roti,Chawal"
+    },
+    {
+      "price":3500,
+      "day":"Sunday",
+      "name": "Non-Veg Food",
+      "description": "Chicken biryani"
+    }
+  ]
+}]
